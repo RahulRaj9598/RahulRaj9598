@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ML/DL based simulating drug kinetics using PBPK models under Microgravity conditions and building AI-driven full-stack apps <br>👯 I’m looking to collaborate on open-source ML/DL projects, and SaaS platforms  <br>🤝 I’m looking for help with deploying ML pipelines and scaling full-stack applications  <br>🌱 I’m currently learning Deep Learning (Transformers, CNNs) <br>💬 Ask me about Machine Learning ,MERN stack development, AI models  <br>⚡ Fun fact: I play cricket 🏏, love food 🍜, and exploring how AI can help  🚀
+🔭 I’m currently working on ML/DL based simulating drug kinetics using PBPK models under Microgravity conditions and building AI-driven full-stack apps <br>👯 I’m looking to collaborate on open-source ML/DL projects, and SaaS platforms  <br>🤝 I’m looking for help with deploying ML pipelines and scaling full-stack applications  <br>🌱 I’m currently learning Deep Learning (Transformers, CNNs) <br>💬 Ask me about Machine Learning ,MERN stack development, DSA, CS Fundamentals and  AI models  <br>⚡ Fun fact: I play cricket 🏏, love food 🍜, and exploring how AI can help  🚀
 
 
 ## 🌐 Socials:
