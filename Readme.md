@@ -1,7 +1,8 @@
 # 💫 About Me:
 📖 BTech CSE @Birla Institute of Technology, Mesra. ~(2022-2026) <br>
 🧑🏻‍🏫 Ex-Research Intern @Illinois Institute of Technology,Chicago,USA. ~(June,2025-July,2025)<br>
-🔭 I’m currently working on building AI-driven full-stack apps <br>👯 I’m looking to collaborate on open-source ML/DL projects, and SaaS platforms  <br>🤝 Finalist in Smart India Hackathon'2024 ,D3Fest IIIT-Bhubhaneshwar'2024. <br>🌱 I’m currently learning Deep Learning (Transformers, CNNs) and about Agentic AI <br>💬 Ask me about Machine Learning ,MERN stack development, DSA, CS Fundamentals.  
+🤝 Finalist in Smart India Hackathon'2024 ,D3Fest IIIT-Bhubhaneshwar'2024. <br>
+🔭 I’m currently working on building AI-driven full-stack apps <br>👯 I’m looking to collaborate on open-source ML/DL projects, and SaaS platforms <br>🌱 I’m currently learning Deep Learning (Transformers, CNNs) and about Agentic AI <br>💬 Ask me about Machine Learning ,MERN stack development, DSA, CS Fundamentals.  
 
 
 ## 🌐 Socials:
