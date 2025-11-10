@@ -2,7 +2,8 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,21,26,29,30&height=200&section=header&text=🚀%20Welcome%20to%20My%20Profile%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Enthusiast;ML+Researcher;Problem+Solver;Tech+Innovator&font=Fira%20Code&center=true&width=450&height=55&duration=4000&pause=1000&color=FF6B6B&size=28&background=FFFFFF00" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I%27m+Rahul+Raj%3B;Aspiring+SDE+from+India%3B&font=Fira%20Code&center=true&width=450&height=55&duration=1500&pause=1000&color=FF6B6B&size=28&background=FFFFFF00" alt="Typing SVG" />
+
 
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
 
@@ -19,7 +20,7 @@
 
   ![GitHub followers](https://img.shields.io/github/followers/RahulRaj9598?color=FF6B6B&label=Followers&logo=github&style=for-the-badge&logoColor=white)
   ![GitHub stars](https://img.shields.io/github/stars/RahulRaj9598?color=4ECDC4&label=Stars&logo=github&style=for-the-badge&logoColor=white)
-  ![GitHub watchers](https://img.shields.io/github/watchers/yourusername/RahulRaj9598?color=95E1D3&label=Watchers&logo=github&style=for-the-badge&logoColor=white)
+  ![GitHub watchers](https://img.shields.io/github/watchers/RahulRaj9598/RahulRaj9598?color=95E1D3&label=Watchers&logo=github&style=for-the-badge&logoColor=white)
   ![Profile Views](https://komarev.com/ghpvc/?username=RahulRaj9598&color=FFD93D&label=Profile+Views&style=for-the-badge&logo=eye&logoColor=white)
 
   <br/>
@@ -76,11 +77,9 @@ const aboutMe = {
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/technology/technology.png" alt="Tech" width="50" height="50">
+  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="50" height="50">
-
 </div>
 
 ### 💻 Languages
@@ -160,7 +159,6 @@ const aboutMe = {
 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="40" height="40">
 
 </div>
 
@@ -178,7 +176,6 @@ const aboutMe = {
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" width="40" height="40">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" width="40" height="40">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40" height="40">
 
@@ -224,40 +221,36 @@ const aboutMe = {
 
 ---
 
-## 📊 GitHub Stats & Activity
+
+## 📊 GitHub Stats & Activity  
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff" />
+  <!-- 📈 STATS & LANGUAGES SIDE BY SIDE -->
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulRaj9598&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRaj9598&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- 🔥 GITHUB STREAK (WIDE CENTERED CARD) -->
+  <img src="https://github-readme-streak-stats.demolab.com?user=RahulRaj9598&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideNums=95E1D3&sideLabels=FFD93D&dates=ffffff" alt="GitHub Streak" width="90%" />
+
+  <!-- 🏆 TROPHIES -->
+  <img src="https://github-profile-trophy.vercel.app/?username=RahulRaj9598&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies" width="95%" />
+
+  <!-- 🌱 CONTRIBUTION GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulRaj9598&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFD93D&area=true&area_color=95E1D3" alt="GitHub Activity Graph" width="95%" />
+
+  <!-- 🔻 DECORATIVE FOOTER -->
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/main/bottom_header.svg" alt="Bottom Header" width="100%" />
 
 </div>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideNums=95E1D3&sideLabels=FFD93D&dates=ffffff" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=2&column=4" alt="GitHub Trophies" />
-
-</div>
-
-<div align="center">
-
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFD93D&area=true&area_color=95E1D3)
-
-</div>
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc9558ecb1/bottom_header.svg" alt="GitHub Contribution" width="100%" />
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -279,7 +272,7 @@ const aboutMe = {
 <tr>
 <td width="50%">
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4" alt="Project 1" />
+  <img src="https://drive.google.com/file/d/10ube24lR6R_iOagxzpXfw9Hupqc4RmdR/view?usp=sharing" alt="Project 1" />
 
 </td>
 <td width="50%">
@@ -468,7 +461,7 @@ const aboutMe = {
 
 <div align="center">
 
-  <img alt="GitHub Contributions" src="https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img alt="GitHub Contributions" src="https://github-contributor-stats.vercel.app/api?username=RahulRaj9598&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -482,11 +475,9 @@ const aboutMe = {
 
   <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulrajbit)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrajpr06@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulRaj9598)
 
 </div>
 
@@ -522,9 +513,9 @@ const aboutMe = {
   
   **Thanks for visiting my profile!** 
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=FF6B6B&label=Profile+Views&style=for-the-badge&logo=eye)
+  ![Profile Views](https://komarev.com/ghpvc/?username=RahulRaj9598&color=FF6B6B&label=Profile+Views&style=for-the-badge&logo=eye)
   
-  **Made with ❤️ and lots of ☕ by [Your Name]**
+  **Made with ❤️ and lots of ☕ by Rahul Raj**
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,21,26,29,30&height=100&section=footer&animation=twinkling" alt="Footer" />
 
