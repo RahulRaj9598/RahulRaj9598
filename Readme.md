@@ -255,38 +255,34 @@ const aboutMe = {
 ## 🚀 Featured Projects
 
 <div align="center">
-
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Projects" width="400" height="200">
-
 </div>
 
-### 🎯 Project 1
+---
+
+### 🎯 Project 1 — **FindMyStuff**
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/🚀_Project_1-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Project 1 Badge" />
-
+  <img src="https://img.shields.io/badge/🚀_FindMyStuff-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="FindMyStuff Badge" />
 </div>
 
 <table>
 <tr>
 <td width="50%">
-
-  <img src="https://drive.google.com/file/d/10ube24lR6R_iOagxzpXfw9Hupqc4RmdR/view?usp=sharing" alt="Project 1" />
-
+  <img src="https://github.com/RahulRaj9598/RahulRaj9598/blob/main/Project1.png" alt="FindMyStuff Screenshot" />
 </td>
 <td width="50%">
 
-  **📝 Description:** Brief description of your project highlighting key features and technologies used.
+  **📝 Description:** Lost something? Found something? **FindMyStuff** connects finders and owners through a smooth claim-and-contact system. Post lost or found items, verify details, and reconnect easily.  
   
-  **🛠️ Tech Stack:** `React` `Node.js` `MongoDB` `Express`
+  **🛠️ Tech Stack:** `React` `Node.js` `MongoDB` `Express` `Zustand` `SendGrid` `Vercel` `Render` `Nodemailer` `API Limit` `Notifications`
   
   <div align="center">
-    <a href="https://your-demo-link.com">
+    <a href="https://lostand-found-kappa.vercel.app/">
       <img src="https://img.shields.io/badge/🌐_Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
     </a>
-    <a href="https://github.com/yourusername/project1">
-      <img src="https://img.shields.io/badge/💻_Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/RahulRaj9598/LostandFound">
+      <img src="https://img.shields.io/badge/💻_Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
     </a>
   </div>
 
@@ -296,69 +292,61 @@ const aboutMe = {
 
 ---
 
-### 🎯 Project 2
+### 🎯 Project 2 — **AI TripVisor**
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/🚀_Project_2-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white" alt="Project 2 Badge" />
-
+  <img src="https://github.com/RahulRaj9598/RahulRaj9598/blob/main/Project2.png" alt="AI TripVisor Screenshot" />
 </div>
 
 <table>
 <tr>
 <td width="50%">
 
-  **📝 Description:** Brief description of your project highlighting key features and technologies used.
+  **📝 Description:** A next-gen **AI-powered travel platform** that combines smart trip planning with a social experience. Create personalized itineraries, post travel blogs, and connect with other explorers.  
   
-  **🛠️ Tech Stack:** `Next.js` `Python` `Flask` `PostgreSQL`
+  **🛠️ Tech Stack:** `React.js` `Node.js` `Gemini API` `Google Maps API` `Firebase` `OAuth` `Google Photos API` `MongoDB` `Express.js` `Prompt Engineering` `Polling`
   
   <div align="center">
-    <a href="https://your-demo-link.com">
+    <a href="https://ai-tripvisor-v2.vercel.app/">
       <img src="https://img.shields.io/badge/🌐_Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
     </a>
-    <a href="https://github.com/yourusername/project2">
-      <img src="https://img.shields.io/badge/💻_Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/RahulRaj9598/AI_TripvisorUpdated">
+      <img src="https://img.shields.io/badge/💻_Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
     </a>
   </div>
 
 </td>
 <td width="50%">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B" alt="Project 2" />
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulRaj9598&repo=AI_TripvisorUpdated&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B" alt="AI TripVisor Repo" />
 </td>
 </tr>
 </table>
 
 ---
 
-### 🎯 Project 3
+### 🎯 Project 3 — **React Portfolio**
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/🚀_Project_3-95E1D3?style=for-the-badge&logo=rocket&logoColor=white" alt="Project 3 Badge" />
-
+  <img src="https://github.com/RahulRaj9598/RahulRaj9598/blob/main/Project3.png" alt="Portfolio Screenshot" />
 </div>
 
 <table>
 <tr>
 <td width="50%">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=radical&hide_border=true&bg_color=0D1117&title_color=95E1D3&icon_color=FFD93D" alt="Project 3" />
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulRaj9598&repo=react-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=95E1D3&icon_color=FFD93D" alt="Portfolio Repo" />
 </td>
 <td width="50%">
 
-  **📝 Description:** Brief description of your project highlighting key features and technologies used.
+  **📝 Description:** A sleek and modern **personal portfolio** made with React and TailwindCSS, featuring smooth navigation, responsive UI, and a dynamic project showcase.  
   
-  **🛠️ Tech Stack:** `React` `Redux` `Firebase` `TailwindCSS`
+  **🛠️ Tech Stack:** `React` `React Router` `TailwindCSS`
   
   <div align="center">
-    <a href="https://your-demo-link.com">
+    <a href="https://react-portfolio-two-flax.vercel.app/">
       <img src="https://img.shields.io/badge/🌐_Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
     </a>
-    <a href="https://github.com/yourusername/project3">
-      <img src="https://img.shields.io/badge/💻_Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/RahulRaj9598/react-portfolio">
+      <img src="https://img.shields.io/badge/💻_Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
     </a>
   </div>
 
@@ -368,69 +356,61 @@ const aboutMe = {
 
 ---
 
-### 🎯 Project 4
+### 🎯 Project 4 — **Customer Churn Prediction**
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/🚀_Project_4-FFD93D?style=for-the-badge&logo=rocket&logoColor=white" alt="Project 4 Badge" />
-
+  <img src="https://github.com/RahulRaj9598/RahulRaj9598/blob/main/Project4.png" alt="Customer Churn Screenshot" />
 </div>
 
 <table>
 <tr>
 <td width="50%">
 
-  **📝 Description:** Brief description of your project highlighting key features and technologies used.
+  **📝 Description:** A complete **ML pipeline** for predicting customer churn in telecom. Features data cleaning, feature engineering, model optimization, and deployment via Streamlit — achieving **75.7% recall** and **0.835 AUC-ROC**.  
   
-  **🛠️ Tech Stack:** `Machine Learning` `Python` `scikit-learn` `NumPy` `Pandas`
+  **🛠️ Tech Stack:** `Python` `Machine Learning` `scikit-learn` `NumPy` `Pandas` `EDA` `Feature Engineering` `Streamlit` `Dashboard`
   
   <div align="center">
     <a href="https://your-demo-link.com">
-      <img src="https://img.shields.io/badge/🌐_Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      <img src="https://img.shields.io/badge/🌐_Live_Demo-4ECDC4?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
     </a>
-    <a href="https://github.com/yourusername/project4">
-      <img src="https://img.shields.io/badge/💻_Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/RahulRaj9598/CustomerChurnPrediction">
+      <img src="https://img.shields.io/badge/💻_Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
     </a>
   </div>
 
 </td>
 <td width="50%">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD93D&icon_color=95E1D3" alt="Project 4" />
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulRaj9598&repo=CustomerChurnPrediction&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD93D&icon_color=95E1D3" alt="Customer Churn Repo" />
 </td>
 </tr>
 </table>
 
 ---
 
-### 🎯 Project 5
+### 🎯 Project 5 — **Jobify**
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/🚀_Project_5-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Project 5 Badge" />
-
+  <img src="https://img.shields.io/badge/🚀_Jobify-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Jobify Badge" />
 </div>
 
 <table>
 <tr>
 <td width="50%">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project5&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4" alt="Project 5" />
-
+  <img src="https://github.com/RahulRaj9598/RahulRaj9598/blob/main/Project5.png" alt="Jobify Screenshot" />
 </td>
 <td width="50%">
 
-  **📝 Description:** Brief description of your project highlighting key features and technologies used.
+  **📝 Description:** **Jobify** is a full-stack job platform built with the MERN stack, enabling job seekers to find and apply for jobs while employers can post listings. Includes authentication, CRUD operations, and a clean dashboard UI.  
   
-  **🛠️ Tech Stack:** `MERN Stack` `Docker` `JWT` `MongoDB`
+  **🛠️ Tech Stack:** `MERN Stack` `JWT` `MongoDB` `Netlify` `Render`
   
   <div align="center">
-    <a href="https://your-demo-link.com">
-      <img src="https://img.shields.io/badge/🌐_Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    <a href="https://jobify-findjobs.netlify.app/">
+      <img src="https://img.shields.io/badge/🌐_Live_Demo-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
     </a>
-    <a href="https://github.com/yourusername/project5">
-      <img src="https://img.shields.io/badge/💻_Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/RahulRaj9598/Jobify">
+      <img src="https://img.shields.io/badge/💻_Source_Code-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
     </a>
   </div>
 
@@ -438,24 +418,31 @@ const aboutMe = {
 </tr>
 </table>
 
-</div>
-
 ---
+
+<div align="center">
+  
+⭐ **Like what you see? Give these projects a star — it motivates me to build more cool stuff!** ⭐  
+
+</div>
 
 ## 🏆 Achievements
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2sa0qE3Bk5ON2/giphy.gif" alt="Trophy" width="200" height="200" />
+</div>
 
-  <img src="https://media.giphy.com/media/3o7aD2sa0qE3Bk5ON2/giphy.gif" alt="Trophy" width="200" height="200">
+<br/>
 
-  <br/>
+<div align="center">
 
-  ![Smart India Hackathon](https://img.shields.io/badge/🏆_Smart%20India%20Hackathon'2024-Finalist-FF6B6B?style=for-the-badge&logo=trophy&logoColor=white)
-  ![D3Fest](https://img.shields.io/badge/🏆_D3Fest%20IIIT-Bhubaneswar'2024-Finalist-4ECDC4?style=for-the-badge&logo=trophy&logoColor=white)
+  <img src="https://img.shields.io/badge/🏆_Smart%20India%20Hackathon'2024-Finalist-FF6B6B?style=for-the-badge&logo=trophy&logoColor=white" alt="Smart India Hackathon 2024 Finalist" />
+  <img src="https://img.shields.io/badge/🏆_D3Fest%20IIIT--Bhubaneswar'2024-Finalist-4ECDC4?style=for-the-badge&logo=trophy&logoColor=white" alt="D3Fest 2024 Finalist" />
 
 </div>
 
 ---
+
 
 ## 📈 Contribution Graph
 
